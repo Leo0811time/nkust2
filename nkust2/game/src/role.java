@@ -3,6 +3,7 @@ public class role {
     int MP; //data member
     int ATTACK; //data member
     String name;
+    String weapon;
 
 
     role(int roleHP, int roleMP, int roleATTACK) {
